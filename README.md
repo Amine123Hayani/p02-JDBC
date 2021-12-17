@@ -1,8 +1,8 @@
 # p02-JDBC
-#swing 
-#Java
-#Automates
-#POO
+# swing 
+# Java
+# Automates
+# POO
 
 L’automate prend en entrée un mot et l’accepte ou la rejette. On dit aussi qu’il le reconnaît ou ne le reconnaît pas. 
 Le langage associé à un automate est constitué de l’ensemble des mots qu’il reconnaît.
